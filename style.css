@@ -72,8 +72,24 @@ img {
   clear: both;
 }
 
-/* CSS MEDIA QUERY */
+/* CSS MEDIA QUERY TABLET (BONUS) */
 
+@media screen and (max-width: 768px){
+    .row {
+      width: 100%;
+
+ 
+   }
+  
+  }
+
+
+
+
+
+
+
+/* CSS MEDIA QUERY 480PX */
 @media screen and (max-width: 480px){
   .row {
     width: 100%;
